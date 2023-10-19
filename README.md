@@ -30,7 +30,7 @@ a Frontend Development course to demonstrate and refine skills including:
 
 Liliia Kalinichenko - [@liliia_kalinichenko](https://t.me/liliia_kalinichenko) - fedotova.liliya90@gmail.com
 
-Project Link: [https://github.com/Liliya-Kalinichenko/miami-landing](https://github.com/Liliya-Kalinichenko/eco-cosmetics)
+Project Link: [https://github.com/Liliya-Kalinichenko/eco-cosmetics](https://github.com/Liliya-Kalinichenko/eco-cosmetics)
 
 
 
